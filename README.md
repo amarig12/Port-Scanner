@@ -6,9 +6,9 @@
 
 Functionality:</p>
 
-- <b>The script will take the target's IP address (or hostname) as input from the user.</b>
+- <b>The script will take the target's IP address as input from the user.</b>
 - <b>It will iterate through a range of ports (default or user-defined) and attempt to establish connections.</b>
-- <b>For each port, the script will determine if it's open, closed, or filtered (firewall blocking).</b>
+- <b>For each port, the script will determine if it's open or closed.</b>
 - <b>The script will display the results, indicating open ports and their corresponding services (if known).</b>
 
 
